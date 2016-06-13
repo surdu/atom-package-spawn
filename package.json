@@ -1,0 +1,12 @@
+{
+	"name": "{[packageName]}",
+	"main": "./lib/main",
+	"version": "{[version]}",
+	"description": "",
+	"repository": "https://github.com/surdu/{[packageName]}",
+	"license": "MIT",
+	"engines": {
+		"atom": ">0.50.0"
+	},
+	"keywords": []
+}
