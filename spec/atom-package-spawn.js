@@ -1,2 +1,2 @@
-describe("selector-to-tab", function () {
+describe("{[packageName]}", function () {
 });
